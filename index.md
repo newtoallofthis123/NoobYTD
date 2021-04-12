@@ -1,4 +1,4 @@
-## NoobYTD
+# **NoobYTD**
 
 This is the official website for NoobYTD. You can also access it from [NoobYTD](https://kutt.it/NoobYTD).
 NoobYTD is a open source tool for downloading Youtube Videos. It is for people who are not comfortable with popular Command line tools (CLI) Like YOutube-dl
@@ -9,9 +9,9 @@ NoobYTD is a open source tool for downloading Youtube Videos. It is for people w
 
 **Direct Download, Includes all neccessary assets and components** [Direct_Download_latest_zip](https://github.com/newtoallofthis123/NoobYTD/releases/download/V101/Direct_Download_Windows_V101.zip)
 
+**Download from file storage** [File Storage_executable]()
 
-
-
+**Download from file storage** [File Storage_zip]()
 
 
 
@@ -81,5 +81,7 @@ Song Downloader
  read NAME
  youtube-dl -o "$NAME" -x --write-thumbnail --embed-thumbnail $URL
  echo Done.`
+ ```
+# By NOOB SCIENCE... FORK ME ON [GITHUB](https://github.com/newtoallofthis123/NoobYTD)
  
  
