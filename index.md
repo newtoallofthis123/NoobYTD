@@ -9,9 +9,7 @@ NoobYTD is a open source tool for downloading Youtube Videos. It is for people w
 
 **Direct Download, Includes all neccessary assets and components** [Direct_Download_latest_zip](https://github.com/newtoallofthis123/NoobYTD/releases/download/V101/Direct_Download_Windows_V101.zip)
 
-**Download from file storage** [File Storage_executable]()
-
-**Download from file storage** [File Storage_zip]()
+**Download assets from file storage** [File Storage_zip](https://oshi.at/wpYaZy)
 
 
 
