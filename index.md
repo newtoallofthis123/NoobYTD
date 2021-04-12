@@ -4,7 +4,9 @@ This is the official website for NoobYTD. You can also access it from [NoobYTD](
 NoobYTD is a open source tool for downloading Youtube Videos. It is for people who are not comfortable with popular Command line tools (CLI) Like YOutube-dl
 
 ## Download
+
 **Direct Download, Includes all neccessary assets and components** [Direct_Download_latest_executable](https://github.com/newtoallofthis123/NoobYTD/releases/download/V101/Direct_Download_Windows_V101.exe)
+
 **Direct Download, Includes all neccessary assets and components** [Direct_Download_latest_zip](https://github.com/newtoallofthis123/NoobYTD/releases/download/V101/Direct_Download_Windows_V101.zip)
 
 
