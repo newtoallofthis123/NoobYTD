@@ -11,9 +11,7 @@ NoobYTD is a open source tool for downloading Youtube Videos. It is for people w
 
 **Download assets from file storage** [File Storage_zip](https://oshi.at/wpYaZy)
 
-
-
-### Create It on your Own
+## Create It on your Own
 It is actually very easy to recreate all of this on your own without downloading any thing. Just follow these instructions
 
 ![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ZZYk4tA-1NDn29IfQjbtBAHaEK%26pid%3DApi&f=1)
@@ -25,7 +23,7 @@ It is actually very easy to recreate all of this on your own without downloading
  ## Write the Scripts
  Don't worry, It is very Easy too write the Scripts as well. Just copy the below given code into a file and name it **DOWNLOADER.bat / DOWNLOADER.sh**
  
- ### Batch Scripts: For Windows
+ ## Batch Scripts: For Windows
  
  ```markdown
  
@@ -54,7 +52,7 @@ dir
 echo Hope you found it.`
  ```
  
- ### Bash Script
+ ## Bash Script
  
  ```markdown
 
